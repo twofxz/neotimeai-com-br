@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emnapi/core": "1.11.0",
+    "@emnapi/runtime": "1.11.0",
     "@react-three/drei": "^10.7.7",
     "@react-three/fiber": "^9.6.1",
     "@react-three/postprocessing": "^3.0.4",
@@ -35,10 +37,6 @@
     "vite": "^8.0.12"
   },
   "overrides": {
-    "@emnapi/core": "1.11.0",
-    "@emnapi/runtime": "1.11.0"
-  },
-  "optionalDependencies": {
     "@emnapi/core": "1.11.0",
     "@emnapi/runtime": "1.11.0"
   }
